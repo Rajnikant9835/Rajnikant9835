@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajnikant9835
 - 👀 I’m interested in MERN Stack Developer
-- 🌱 I’m currently learning Fronted Web Dev.
+- 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me ...
 - E-mail:- rajnikantofficial9835@gmail.com
