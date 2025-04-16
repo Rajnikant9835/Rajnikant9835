@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Rajnikant Kumar
 
-🚀 Aspiring Full-Stack Developer | 💡 Problem Solver | 🎓 B.E. CSE Pre-final Year @ Sengunthar Engineering College  
-🌍 From Bihar, India | 🏫 Studying in Tamil Nadu
+🚀 Aspiring Full-Stack Developer | 💡 Problem Solver | 🎓 B.E. CSE Pre-final Year Student
 
 ---
 
@@ -12,7 +11,7 @@ I'm a passionate and dedicated Computer Science student, always looking to build
 - 🔭 Currently working on: Full-stack MERN projects
 - 🌱 Learning: TypeScript, Advanced System Design
 - 🤝 Open to: Collaboration, Internship, and Hackathons
-- 📫 Contact me: [rajnikantkumar862001@gmail.com](mailto:rajnikantkumar862001@gmail.com)
+- 📫 Contact me: [rajnikantkumar862001@gmail.com](mailto:rajnikantofficial9835@gmail.com)
 
 ---
 
