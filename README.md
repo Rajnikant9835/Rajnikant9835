@@ -64,11 +64,6 @@ I'm a passionate and dedicated Computer Science student, always looking to build
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnikant9835&langs_count=10&layout=compact&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true" />
 </p>
 
----
-
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/Rajnikant9835/Rajnikant9835/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
