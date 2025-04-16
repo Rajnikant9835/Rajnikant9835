@@ -1,22 +1,18 @@
 # Hi there! 👋 I'm Rajnikant Kumar
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
-</p>
 
-🚀 Aspiring Full-Stack Developer | 💡 Final Year CSE @ Sengunthar Engineering College | 🧠 MERN Stack & DSA Enthusiast | 📈 Preparing for Placements
+🚀 Aspiring Full-Stack Developer | 💡 Problem Solver | 🎓 B.E. CSE Pre-final Year @ Sengunthar Engineering College  
+🌍 From Bihar, India | 🏫 Studying in Tamil Nadu
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm Rajnikant Kumar, a passionate software developer in the making. I'm currently working on improving my development skills, solving DSA problems daily, and contributing to full-stack projects with a focus on scalable and clean code.
+I'm a passionate and dedicated Computer Science student, always looking to build scalable, user-centric digital solutions. I enjoy working across the full stack and love contributing to open-source projects. With a strong foundation in web development and problem-solving, I’m preparing for exciting opportunities in software engineering and full-stack development.
 
-* 🌍  I'm based in Tamil Nadu, India  
-* 🎓  Final Year B.E. CSE @ Sengunthar Engineering College (6th Sem)  
-* 📫  Reach me at: [rajnikant9835@gmail.com](mailto:rajnikant9835@gmail.com)  
-* 🔭  Currently learning: TypeScript, Advanced React, System Design  
-* 🌱  Practicing: GFG SDE Sheet | Love Babbar's StudyNotion Project  
-* 🤝  Open to collaborating on full-stack MERN projects  
+- 🔭 Currently working on: Full-stack MERN projects
+- 🌱 Learning: TypeScript, Advanced System Design
+- 🤝 Open to: Collaboration, Internship, and Hackathons
+- 📫 Contact me: [rajnikantkumar862001@gmail.com](mailto:rajnikantkumar862001@gmail.com)
 
 ---
 
@@ -28,44 +24,64 @@ I'm Rajnikant Kumar, a passionate software developer in the making. I'm currentl
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Rajnikant9835/ChatHub" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajnikant9835&repo=ChatHub&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true" />
+  </a>
+  <a href="https://github.com/Rajnikant9835/GIFS_Generator" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajnikant9835&repo=GIFS_Generator&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true" />
+  </a>
+</div>
+<br/><br/><br/><br/>
+
+<div align="center">
+  <a href="https://github.com/Rajnikant9835/Card_Job" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajnikant9835&repo=Card_Job&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true" />
+  </a>
+  <a href="https://github.com/Rajnikant9835/modernChair.github.io" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajnikant9835&repo=modernChair.github.io&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true" />
+  </a>
+</div>
+<br/><br/><br/><br/>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajnikant9835&show_icons=true&count_private=true&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rajnikant9835&theme=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnikant9835&langs_count=10&layout=compact&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/Rajnikant9835/Rajnikant9835/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://github.com/Rajnikant9835" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  <a href="https://www.linkedin.com/in/rajnikant-kumar-211200/" target="_blank">
+  <a href="https://www.linkedin.com/in/rajnikant-kumar-872a0a307/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
+  <a href="https://x.com/Rajnikant_0_1" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<a href="http://www.github.com/Rajnikant9835"><img src="https://github-readme-stats.vercel.app/api?username=Rajnikant9835&show_icons=true&count_private=true&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true" alt="Rajnikant's GitHub stats" /></a>
-
-<a href="http://www.github.com/Rajnikant9835"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajnikant9835&stroke=000000&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=000000&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="https://github.com/Rajnikant9835"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnikant9835&langs_count=10&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
----
-
-### 🚀 Featured Projects
-
-<div width="100%" align="center">
-  <a href="https://github.com/Rajnikant9835/StudyNotion" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajnikant9835&repo=StudyNotion&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true" />
-  </a>
-  <a href="https://github.com/Rajnikant9835/QuickNotes" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajnikant9835&repo=QuickNotes&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true" />
-  </a>
-</div>
